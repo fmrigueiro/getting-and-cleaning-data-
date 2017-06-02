@@ -17,7 +17,7 @@ Unzip the data set into "Your directory" and you should see a folder named UCI H
 
 Load RStudio and set your working directory using setwd("Your directory")
 
-Load the R script using source("run_analysis.txt")
+Load the R script using source("run_analysis.R")
 
 Run the R script using run_analysis() and after execution of the function has finished, you will see that merged_tidy_data.txt and calculated_tidy_data.txt would have been replaced with the newest outputs.
 
